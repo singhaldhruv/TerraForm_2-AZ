@@ -1,0 +1,3 @@
+.terraform
+.terraform.lock.hcl
+dhruv_AWS_Keys.csv
